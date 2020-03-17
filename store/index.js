@@ -46,5 +46,8 @@ const createStore = () => {
     })
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 export default createStore
